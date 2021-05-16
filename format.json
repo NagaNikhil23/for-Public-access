@@ -1,0 +1,15 @@
+{
+    'fields': [{
+        'name': name,
+        'type': 'STRING'
+    }, {
+        'name': 'gender',
+        'type': 'STRING'
+    }, {
+        'name': 'age',
+        'type': 'STRING',
+    }, {
+        'name': ‘city,
+        'type': 'STRING'
+    }]
+}
